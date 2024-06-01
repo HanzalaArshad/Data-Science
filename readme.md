@@ -1,4 +1,4 @@
-Python Data science Assignments !
+[Python Data science Assignments !]
 This repository contains the Python assignments completed by [Your Name] for data analysis tasks. Each assignment focuses on different aspects of data manipulation, visualization, and analysis using Python libraries such as Pandas, NumPy, and Matplotlib.
 
 Assignment 1: Data Visualization and Pandas Functions
